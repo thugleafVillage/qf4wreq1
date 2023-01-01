@@ -23,6 +23,11 @@
   },
   "packageManager": "yarn@3.3.1",
   "devDependencies": {
-    "@yarnpkg/sdks": "^3.0.0-rc.34"
+    "@types/prettier": "^2",
+    "@yarnpkg/sdks": "^3.0.0-rc.34",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "husky": "^8.0.2",
+    "prettier": "^2.8.1"
   }
 }
